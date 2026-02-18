@@ -1,7 +1,6 @@
 __pycache__
 /*.zip
 /*.html
-/*.csv
 /*.png
 logs/*
 dg*
