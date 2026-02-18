@@ -1,0 +1,11 @@
+__pycache__
+/*.zip
+/*.html
+/*.csv
+/*.png
+logs/*
+dg*
+*.swp
+*.out
+Uncertainties*.txt
+uncs.txt
